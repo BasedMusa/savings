@@ -1,0 +1,38 @@
+name: savings
+description: an app developed in flutter that can help you manage your savings and expenses on the go
+author: musa usman
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  sqflite: ^0.9.0
+  path_provider: ^0.4.1
+  firebase_analytics: ^1.0.1
+  flutter_statusbarcolor:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - images/sample_avatar.jpg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  fonts:
+    - family: Proxima Nova
+      fonts:
+        - asset: fonts/Proxima-Nova-Regular.ttf
+        - asset: fonts/Proxima-Nova-Bold.ttf
