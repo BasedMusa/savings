@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "142726005141",
+    "firebase_url": "https://savings-4c386.firebaseio.com",
+    "project_id": "savings-4c386",
+    "storage_bucket": "savings-4c386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142726005141:android:ba85734778721d27",
+        "android_client_info": {
+          "package_name": "com.quickfix.savings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142726005141-hmlffhf7okpu0opcivnb17h27dhsn9th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickfix.savings",
+            "certificate_hash": "5803f9e544765175b998fdfd47978bf23f1ffad9"
+          }
+        },
+        {
+          "client_id": "142726005141-qnffptv1gv7adc9db6jqkh7jpaoopcng.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "142726005141-qnffptv1gv7adc9db6jqkh7jpaoopcng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDpY4PzhW3snbWJHavE2aZNImiiv54rM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142726005141-qnffptv1gv7adc9db6jqkh7jpaoopcng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
